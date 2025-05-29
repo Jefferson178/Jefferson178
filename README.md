@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jefferson Ricardo Herrera Chávez
+# 👋 Hola, soy Jefferson Herrera
 
 🎓 Soy Ingeniero en Telemática con una Maestría en Desarrollo y Operaciones (DevOps). Me desempeño como **Desarrollador de Software** y **Analista de Tecnología en Infraestructura**, especializado en la implementación, automatización y mantenimiento de sistemas complejos, principalmente en entornos educativos.
 
